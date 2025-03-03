@@ -34,15 +34,14 @@
 |-----------------------|----------|---------|-----------|
 | Arduino Uno          |  30 €  | 1       |  30 €   |
 | Breadboard            |  4.5 €   | 1       |  4.5 €    |
-| Jumpers F/M           |  4.0 €   | 1       |  4.0 €    |
-| Dc Motors             |  9 €   | 4       |  36.0 €   |
-| IR Color             |  9.90 €   | 1       |  9.9 €    |
-| Battery holder       |  2 €   | 1       |  2 €    |
-| Vibrator motor            |  7 €  | 3       |  21.0 €   |
-| Led             |  7.4 €   | 4       |  7.4 €    |
-|  button               |  2 €   | 4      |  1.5 €    |
-| Flex sensor            |  2 €   | 1      |  8 €    |
-| Σύνολο                |          |         |  130.5 €  |
+| Jumpers F/M           |  4.0 €   | 2       |  8.0 €    |
+| DFPlayer - A Mini MP3 Player             |  9,9 €   | 1       |  9,9 €   |
+| LED Ring            |  3.6 €   | 1       |  3.6 €    |
+| Battery holder       |  1 €   | 1       |  1 €    |
+| Vibrator motor            |  2 €  | 1       |  2.0 €   |
+|  button               |  1 €   | 4      |  4 €    |
+| Flex sensor            |  15 €   | 1      |  15 €    |
+| Σύνολο                |          |         |  75 €  |
 
 ## Χρονοδιάγραμμα:
 - Μήνας 1: Έρευνα και σχεδιασμός.
