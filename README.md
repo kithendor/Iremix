@@ -35,15 +35,13 @@
 | Arduino Uno          |  30 €  | 1       |  30 €   |
 | Breadboard            |  4.5 €   | 1       |  4.5 €    |
 | Jumpers F/M           |  4.0 €   | 1       |  4.0 €    |
-| Jumpers F/M           |  4.0 €   | 1       |  4.0 €    |
-| Driver Module         |  4,2 €   | 1       |  4,2 €    |
 | Dc Motors             |  9 €   | 4       |  36.0 €   |
 | IR Color             |  9.90 €   | 1       |  9.9 €    |
 | Battery holder       |  2 €   | 1       |  2 €    |
-| Water pump            |  7 €  | 3       |  21.0 €   |
-| Bluetooth             |  7.4 €   | 1       |  7.4 €    |
-| Switch button         |  2 €   | 2       |  1.5 €    |
-| Wheels                   |  2 €   | 4       |  8 €    |
+| Vibrator motor            |  7 €  | 3       |  21.0 €   |
+| Led             |  7.4 €   | 4       |  7.4 €    |
+|  button               |  2 €   | 4      |  1.5 €    |
+| Flex sensor            |  2 €   | 1      |  8 €    |
 | Σύνολο                |          |         |  130.5 €  |
 
 ## Χρονοδιάγραμμα:
